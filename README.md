@@ -1,2 +1,2 @@
-# Soil Moistuer
-Project Soil Moistuer ประเภท Microcontroller
+# Soil Moisture
+Project Soil Moisture ประเภท Microcontroller
