@@ -1,2 +1,2 @@
 # Soil Moisture
-Project Soil Moisture ประเภท Microcontroller
+Mini Project Soil Moisture ประเภท Microcontroller
